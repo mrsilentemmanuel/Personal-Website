@@ -36,7 +36,7 @@ const data = [
     icon: faInstagram,
   },
   {
-    link: 'https://www.l.com/in/silent-emmanuel-dzikiti-59449614b/',
+    link: '',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },

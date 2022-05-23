@@ -27,14 +27,14 @@ const data = [
   {
     key: 'countries',
     label: 'Countries visited',
-    value: 9,
+    value: 10,
     link:
       'https://www.google.com/maps/d/u/0/edit?mid=1Fov_WT_lSlJ-nhFYDrjhHKyiCLLyqIsR&usp=sharing',
   },
   {
     key: 'location',
     label: 'Current Location',
-    value: 'Cape Town, South Africa',
+    value: 'Africa, World, Earth',
   },
 ];
 

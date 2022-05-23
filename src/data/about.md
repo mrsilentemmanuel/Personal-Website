@@ -7,7 +7,7 @@ I am a detailed-oriented Full Stack Developer. I specialize in building beautifu
 
 - At 12, I was the best Mathematics Student, thanks to Mr Mundanga. 
 
-- My brother put a computer in my bedroom in 2003 when I was 14. It was an old Compaque Pentuim 3 that ran MS 98.
+- My brother put a computer in my bedroom when I was 14. It was an old Compaque Pentuim 3 that ran MS 98.
 
 - The first software I installed was XP. 
 
@@ -21,9 +21,12 @@ I am a detailed-oriented Full Stack Developer. I specialize in building beautifu
 
 - At 22, I built my first website with Joomla. My website was terrible.
 
-- At 26, I became a Global Shaper.
+- At 26, I became a Global Shaper (World Economic Forum).
 
 - As a self-taught developer, I had the chance to broaden my horizon by studying Computer Science at the University of People and Software development at CodeSpace.
+
+- Dedicated to my late Brother, Stenford. Thank you for the Compaq PC 3 that sparked my fascination with computer programming and technology.
+
 
 Ask me in person for other stories that I'm afraid to share with the internet.
 
@@ -41,7 +44,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 - I am originally from Zimbabwe, Gweru. I have since lived in Cape Town, Durban, Johannesburg and Gaborone.
 - I've hiked +50 mountains, some of which I have forgotten, and many of which I would like to revisit.
-- I have traveled to 9 countries.
+- I have traveled to 10 countries.
 - After 2022, I hope to start traveling again.
 - I first traveled solo when I was 13.
 - My favorite country so far is United States of America.
@@ -49,7 +52,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 # Fun facts
 
-- I don't use Whats App.
+- I don't use and have Whats App.
 - I have never had more than 50 contacts on my phone.
 - I am allergic to failure.
 - I can't locate every country on a map.
@@ -60,7 +63,8 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 - always finding inspiration.
 - enabling a brighter future.
-- doing better.
+- inspiring others.
+- Building prayer mountains all over the world.
 
 # My Role Models or people I admire
 
@@ -68,8 +72,9 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - Tyler Perry.
 - Oprah Winfrey.
 - Dr Chris Oyakhilome.
-- H.E Uebert Angel
+- H.E Uebert Angel.
 - Elon Musk.
+- Ye.
 
 Of course, I am nowhere close to these people, yet. If you want to be on this list. Pester me and I might add you.
 

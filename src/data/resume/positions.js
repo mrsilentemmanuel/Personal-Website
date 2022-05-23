@@ -1,5 +1,25 @@
 const positions = [
   {
+    company: 'Grad Connection',
+    position: 'Software Developer',
+    link: 'https://gradconnection.com/',
+    daterange: 'Dec 2021 - Present',
+    points: [
+      'Working in partnership with the tech partnership to assist on projects as and when required.',
+      'Developing and designing websites. ',
+    ],
+  },
+  {
+    company: 'Front End Development South Africa',
+    position: 'Speakers Coordinator',
+    link: 'https://fedsa.co.za',
+    daterange: 'Dec 2021 - Present',
+    points: [
+      'Working in partnership with the tech partnership to assist on projects as and when required.',
+      'Developing and designing websites. ',
+    ],
+  },
+  {
     company: 'Full Stack developer',
     position: 'Consultant',
     link: 'https://silentemmanuel.com',

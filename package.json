@@ -8,12 +8,13 @@
     "url": "https://github.com/mrsilentemmanuel/Personal-Website"
   },
   "scripts": {
-    "build": "rimraf ./build && react-scripts build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
     "predeploy": "npm run build && react-snap",
     "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
     "lint": "eslint src",
-    "test": "react-scripts test --watchAll=false",
     "analyze": "npm run build && source-map-explorer build/static/js/*.chunk.js"
   },
   "dependencies": {
